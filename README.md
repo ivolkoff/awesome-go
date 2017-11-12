@@ -89,7 +89,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 *Libraries for manipulating audio.*
 
-* [flac](https://github.com/eaburns/flac) - Native Go FLAC decoder.
+* [![flac](https://gh-social-count-label.herokuapp.com/lable?host=https://github.com/eaburns/flac&show=star)][flac](https://github.com/eaburns/flac) - Native Go FLAC decoder.
 * [flac](https://github.com/mewkiz/flac) - Native Go FLAC decoder.
 * [gaad](https://github.com/Comcast/gaad) - Native Go AAC bitstream parser.
 * [go-sox](https://github.com/krig/go-sox) - libsox bindings for go.
